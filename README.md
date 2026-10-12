@@ -58,7 +58,7 @@ Este proyecto consiste en el desarrollo de un dashboard que facilite la utilizac
 ## 5. Licencia
 [![Licencia](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
-## 6. Autores
+## 6. Colaboradores
 - Carolina Seminario (caroSeminario23)
 
 <a href="https://github.com/caroSeminario23/Servicios_turisticos_Peru/graphs/contributors">
